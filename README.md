@@ -1,5 +1,4 @@
-## Bot Search scripts
-
+## Running
 ```bash
 node index.js
 ```
@@ -12,4 +11,8 @@ npm install
 ```
 ```bash
 /script scriptblox <query>
+```
+## Git Clone
+```bash
+git clone https://github.com/bucu0368/Bot-Search-scripts.git
 ```
