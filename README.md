@@ -1,2 +1,15 @@
-# Bot-Search-scripts
-Bot Search script using api Scriptblox &amp; rscript
+## Bot Search scripts
+
+```bash
+node index.js
+```
+```bash
+npm install
+```
+## Commands
+```bash
+/script rscripts <query>
+```
+```bash
+/script scriptblox <query>
+```
