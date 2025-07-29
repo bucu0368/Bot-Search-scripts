@@ -16,6 +16,16 @@ npm install
 ```bash
 git clone https://github.com/bucu0368/Bot-Search-scripts.git
 ```
+## Config.json
+```bash
+
+{
+  "token": "you bot token here",
+  "embedColor": "#0099ff",
+  "status": "online",
+  "activity": "script rscripts"
+}
+```
 ## ScriptBlox & Rscripts
 [ScriptBlox](https://scriptblox.com/)
 
