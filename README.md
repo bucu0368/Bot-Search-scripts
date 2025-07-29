@@ -16,5 +16,7 @@ npm install
 ```bash
 git clone https://github.com/bucu0368/Bot-Search-scripts.git
 ```
-## Or
-## [replit](https://replit.com)
+## Support Server
+<p align="center">
+  <a href="https://discord.gg/vaaKxpqN"><img src="https://img.shields.io/badge/Join-Discord-7289DA?style=flat-square&logo=discord&logoColor=white" alt="Discord"></a>
+</p> 
