@@ -16,3 +16,5 @@ npm install
 ```bash
 git clone https://github.com/bucu0368/Bot-Search-scripts.git
 ```
+## Or
+## [replit](https://replit.com)
